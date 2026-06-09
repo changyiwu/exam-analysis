@@ -17,7 +17,7 @@
   - 成功解析 110~115 年共 162 題會考數學試題。
   - 設計了精確的 21 個單元分類規則，並建立「手動校對對照表」，排除 PDF 符號丟失對分類精準度的影響，達成 100% 分類準確度。
   - 編寫了詳細的繁體中文分析與應考策略報告 `output/analysis_report.md`。
-  - 使用 Python Pillow + SVG 雙引擎開發了 `generate_infographics.py` 腳本，程式化生成 4 張具備暗黑美學的高解析度 PNG 與向量 SVG 應考策略資訊圖表：
+  - 使用 Python Pillow + SVG 雙引擎開發了 `generate_infographics.py` 腳本，程式化生成 4 張具備暗黑美學的高解析度 PNG 與向量 SVG 應考策略資訊圖表（已依要求全面調整為 **橫式 16:9 / 1920x1080** 規格）：
     1. `1_past_exam_analysis`：歷屆試題頻率分析
     2. `2_overall_strategy`：會考準備與時間分配策略
     3. `3_strategy_c_to_b`：C到B突破基本分策略

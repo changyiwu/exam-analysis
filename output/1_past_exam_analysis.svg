@@ -1,134 +1,125 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800">
-  <rect width="1200" height="1800" fill="#0f172a" />
-  <line x1="100" y1="0" x2="100" y2="1800" stroke="#1e293b" stroke-width="1" />
-  <line x1="300" y1="0" x2="300" y2="1800" stroke="#1e293b" stroke-width="1" />
-  <line x1="500" y1="0" x2="500" y2="1800" stroke="#1e293b" stroke-width="1" />
-  <line x1="700" y1="0" x2="700" y2="1800" stroke="#1e293b" stroke-width="1" />
-  <line x1="900" y1="0" x2="900" y2="1800" stroke="#1e293b" stroke-width="1" />
-  <line x1="1100" y1="0" x2="1100" y2="1800" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="100" x2="1200" y2="100" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="300" x2="1200" y2="300" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="500" x2="1200" y2="500" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="700" x2="1200" y2="700" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="900" x2="1200" y2="900" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="1100" x2="1200" y2="1100" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="1300" x2="1200" y2="1300" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="1500" x2="1200" y2="1500" stroke="#1e293b" stroke-width="1" />
-  <line x1="0" y1="1700" x2="1200" y2="1700" stroke="#1e293b" stroke-width="1" />
-  <rect x="50" y="50" width="1100" height="180" rx="12" fill="#1e293b" stroke="#334155" stroke-width="2" />
-  <rect x="50" y="50" width="15" height="180" fill="#38bdf8" />
-  <text x="90" y="104" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">國中教育會考數學科</text>
-  <text x="90" y="162" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="42" font-weight="bold" text-anchor="start">6 年歷屆試題單元分析 (110~115 年)</text>
-  <rect x="50" y="260" width="340" height="130" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
-  <text x="70" y="298" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">總分析題數</text>
-  <text x="70" y="342" fill="#38bdf8" font-family="Microsoft JhengHei, sans-serif" font-size="32" font-weight="bold" text-anchor="start">162 題</text>
-  <rect x="430" y="260" width="340" height="130" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
-  <text x="450" y="298" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">代數單元佔比 (Top 1)</text>
-  <text x="450" y="342" fill="#818cf8" font-family="Microsoft JhengHei, sans-serif" font-size="32" font-weight="bold" text-anchor="start">34.0% (55題)</text>
-  <rect x="810" y="260" width="340" height="130" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
-  <text x="830" y="298" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">幾何單元佔比 (決勝點)</text>
-  <text x="830" y="342" fill="#f43f5e" font-family="Microsoft JhengHei, sans-serif" font-size="32" font-weight="bold" text-anchor="start">31.5% (51題)</text>
-  <rect x="50" y="420" width="680" height="780" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
-  <text x="80" y="474" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">★ 歷屆會考主題單元出現頻率 Top 10</text>
-  <circle cx="90" cy="520" r="15" fill="#38bdf8" />
-  <text x="90" y="524" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">1</text>
-  <text x="120" y="526" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">代數: 二元一次聯立方程式</text>
-  <text x="600" y="526" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">21題 (12.96%)</text>
-  <rect x="120" y="535" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="535" width="480" height="10" rx="5" fill="#38bdf8" />
-  <circle cx="90" cy="585" r="15" fill="#38bdf8" />
-  <text x="90" y="589" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">2</text>
-  <text x="120" y="591" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">幾何: 三角形與多邊形性質</text>
-  <text x="600" y="591" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">21題 (12.96%)</text>
-  <rect x="120" y="600" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="600" width="480" height="10" rx="5" fill="#38bdf8" />
-  <circle cx="90" cy="650" r="15" fill="#818cf8" />
-  <text x="90" y="654" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">3</text>
-  <text x="120" y="656" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">幾何: 圓的性質</text>
-  <text x="600" y="656" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">11題 (6.79%)</text>
-  <rect x="120" y="665" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="665" width="251" height="10" rx="5" fill="#818cf8" />
-  <circle cx="90" cy="715" r="15" fill="#6366f1" />
-  <text x="90" y="719" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">4</text>
-  <text x="120" y="721" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">代數: 比例式與正反比</text>
-  <text x="600" y="721" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">9題 (5.56%)</text>
-  <rect x="120" y="730" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="730" width="205" height="10" rx="5" fill="#6366f1" />
-  <circle cx="90" cy="780" r="15" fill="#6366f1" />
-  <text x="90" y="784" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">5</text>
-  <text x="120" y="786" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">代數: 直角坐標與二元一次圖形</text>
-  <text x="600" y="786" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">9題 (5.56%)</text>
-  <rect x="120" y="795" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="795" width="205" height="10" rx="5" fill="#6366f1" />
-  <circle cx="90" cy="845" r="15" fill="#6366f1" />
-  <text x="90" y="849" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">6</text>
-  <text x="120" y="851" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">統計與機率: 統計圖表與數據</text>
-  <text x="600" y="851" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">9題 (5.56%)</text>
-  <rect x="120" y="860" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="860" width="205" height="10" rx="5" fill="#6366f1" />
-  <circle cx="90" cy="910" r="15" fill="#a78bfa" />
-  <text x="90" y="914" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">7</text>
-  <text x="120" y="916" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">代數: 乘法公式與多項式</text>
-  <text x="600" y="916" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">8題 (4.94%)</text>
-  <rect x="120" y="925" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="925" width="182" height="10" rx="5" fill="#a78bfa" />
-  <circle cx="90" cy="975" r="15" fill="#cbd5e1" />
-  <text x="90" y="979" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">8</text>
-  <text x="120" y="981" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">數與式: 數線與數的運算</text>
-  <text x="600" y="981" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">7題 (4.32%)</text>
-  <rect x="120" y="990" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="990" width="160" height="10" rx="5" fill="#cbd5e1" />
-  <circle cx="90" cy="1040" r="15" fill="#cbd5e1" />
-  <text x="90" y="1044" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">9</text>
-  <text x="120" y="1046" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">數與式: 因數與倍數</text>
-  <text x="600" y="1046" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">7題 (4.32%)</text>
-  <rect x="120" y="1055" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="1055" width="160" height="10" rx="5" fill="#cbd5e1" />
-  <circle cx="90" cy="1105" r="15" fill="#cbd5e1" />
-  <text x="90" y="1109" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">10</text>
-  <text x="120" y="1111" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">代數: 二次函數</text>
-  <text x="600" y="1111" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="end">7題 (4.32%)</text>
-  <rect x="120" y="1120" width="480" height="10" rx="5" fill="#0f172a" />
-  <rect x="120" y="1120" width="160" height="10" rx="5" fill="#cbd5e1" />
-  <rect x="750" y="420" width="400" height="780" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
-  <text x="780" y="474" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">會考命題趨勢解析</text>
-  <rect x="775" y="510" width="350" height="195" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1" />
-  <rect x="775" y="510" width="8" height="195" fill="#38bdf8" />
-  <text x="795" y="550" fill="#38bdf8" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">一、兩大核心台柱 (26.0%)</text>
-  <text x="795" y="586" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">二元一次聯立方程式與多邊形幾何性質為必</text>
-  <text x="795" y="608.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">考基本盤，每年合計出題 6~8 題。考生應掌</text>
-  <text x="795" y="630.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">握聯立解法與角度平行定理。</text>
-  <rect x="775" y="730" width="350" height="195" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1" />
-  <rect x="775" y="730" width="8" height="195" fill="#f43f5e" />
-  <text x="795" y="770" fill="#f43f5e" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">二、幾何是奪 A 決勝點</text>
-  <text x="795" y="806" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">圓形性質、相似全等、三心等單元高頻率出</text>
-  <text x="795" y="828.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">現於第 16 題之後及非選題，常需要做『幾</text>
-  <text x="795" y="850.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">何輔助線』，是區分 B 級與 A 級的關鍵。</text>
-  <rect x="775" y="950" width="350" height="195" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1" />
-  <rect x="775" y="950" width="8" height="195" fill="#fbbf24" />
-  <text x="795" y="990" fill="#fbbf24" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">三、長篇素養閱讀建模</text>
-  <text x="795" y="1026" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">近年題目大量融入生活情境（如咖啡因標示</text>
-  <text x="795" y="1048.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">、疫苗效力、摺紙），考驗考生『讀懂題目</text>
-  <text x="795" y="1070.8000000000002" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">、假設變數、列式計算』的數學建模能力。</text>
-  <rect x="50" y="1230" width="1100" height="500" rx="12" fill="#1e293b" stroke="#334155" stroke-width="2" />
-  <rect x="50" y="1230" width="1100" height="60" fill="#334155" />
-  <text x="600" y="1267" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">110~115 歷屆會考數學科命題比例分佈統計</text>
-  <rect x="90" y="1330" width="320" height="320" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1" />
-  <text x="250" y="1382" fill="#a78bfa" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">代數與函數</text>
-  <text x="250" y="1458" fill="#a78bfa" font-family="Microsoft JhengHei, sans-serif" font-size="48" font-weight="bold" text-anchor="middle">39.5%</text>
-  <text x="115" y="1506" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">包含：聯立方程式、比例式、乘法公</text>
-  <text x="115" y="1528.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">式、二次函數。出題頻率最高，著重</text>
-  <text x="115" y="1550.8000000000002" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">公式與建模應用。</text>
-  <rect x="440" y="1330" width="320" height="320" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1" />
-  <text x="600" y="1382" fill="#f43f5e" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">幾何與圖形</text>
-  <text x="600" y="1458" fill="#f43f5e" font-family="Microsoft JhengHei, sans-serif" font-size="48" font-weight="bold" text-anchor="middle">31.5%</text>
-  <text x="465" y="1506" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">包含：多邊形性質、圓、相似形、三</text>
-  <text x="465" y="1528.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">心、立體圖形。決勝關鍵，著重推理</text>
-  <text x="465" y="1550.8000000000002" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">證明與空間幾何。</text>
-  <rect x="790" y="1330" width="320" height="320" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1" />
-  <text x="950" y="1382" fill="#2dd4bf" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">數與式 / 統計機率</text>
-  <text x="950" y="1458" fill="#2dd4bf" font-family="Microsoft JhengHei, sans-serif" font-size="48" font-weight="bold" text-anchor="middle">29.0%</text>
-  <text x="815" y="1506" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">包含：數線運算、因倍數、根式、統</text>
-  <text x="815" y="1528.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">計圖表、機率。基本分基本盤，難度</text>
-  <text x="815" y="1550.8000000000002" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">中等偏易，必須全拿。</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#0f172a" />
+  <line x1="100" y1="0" x2="100" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="300" y1="0" x2="300" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="500" y1="0" x2="500" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="700" y1="0" x2="700" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="900" y1="0" x2="900" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="1100" y1="0" x2="1100" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="1300" y1="0" x2="1300" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="1500" y1="0" x2="1500" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="1700" y1="0" x2="1700" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="1900" y1="0" x2="1900" y2="1080" stroke="#1e293b" stroke-width="1" />
+  <line x1="0" y1="100" x2="1920" y2="100" stroke="#1e293b" stroke-width="1" />
+  <line x1="0" y1="300" x2="1920" y2="300" stroke="#1e293b" stroke-width="1" />
+  <line x1="0" y1="500" x2="1920" y2="500" stroke="#1e293b" stroke-width="1" />
+  <line x1="0" y1="700" x2="1920" y2="700" stroke="#1e293b" stroke-width="1" />
+  <line x1="0" y1="900" x2="1920" y2="900" stroke="#1e293b" stroke-width="1" />
+  <rect x="50" y="40" width="1820" height="110" rx="12" fill="#1e293b" stroke="#334155" stroke-width="2" />
+  <rect x="50" y="40" width="15" height="110" fill="#38bdf8" />
+  <text x="90" y="73" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">國中教育會考數學科</text>
+  <text x="90" y="114" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="32" font-weight="bold" text-anchor="start">6 年歷屆試題單元分析 (110~115 年)</text>
+  <rect x="50" y="170" width="580" height="100" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <text x="70" y="201" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">總分析題數</text>
+  <text x="70" y="243" fill="#38bdf8" font-family="Microsoft JhengHei, sans-serif" font-size="28" font-weight="bold" text-anchor="start">162 題</text>
+  <rect x="670" y="170" width="580" height="100" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <text x="690" y="201" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">代數單元佔比 (Top 1)</text>
+  <text x="690" y="243" fill="#818cf8" font-family="Microsoft JhengHei, sans-serif" font-size="28" font-weight="bold" text-anchor="start">34.0% (55題)</text>
+  <rect x="1290" y="170" width="580" height="100" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <text x="1310" y="201" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">幾何單元佔比 (決勝點)</text>
+  <text x="1310" y="243" fill="#f43f5e" font-family="Microsoft JhengHei, sans-serif" font-size="28" font-weight="bold" text-anchor="start">31.5% (51題)</text>
+  <rect x="50" y="290" width="930" height="740" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <text x="80" y="332" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="bold" text-anchor="start">★ 歷屆會考主題單元出現頻率 Top 10</text>
+  <circle cx="90" cy="380" r="14" fill="#38bdf8" />
+  <text x="90" y="384" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">1</text>
+  <text x="120" y="386" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">代數: 二元一次聯立方程式</text>
+  <text x="850" y="386" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">21題 (12.96%)</text>
+  <rect x="120" y="392" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="392" width="400" height="8" rx="4" fill="#38bdf8" />
+  <circle cx="90" cy="443" r="14" fill="#38bdf8" />
+  <text x="90" y="447" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">2</text>
+  <text x="120" y="449" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">幾何: 三角形與多邊形性質</text>
+  <text x="850" y="449" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">21題 (12.96%)</text>
+  <rect x="120" y="455" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="455" width="400" height="8" rx="4" fill="#38bdf8" />
+  <circle cx="90" cy="506" r="14" fill="#818cf8" />
+  <text x="90" y="510" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">3</text>
+  <text x="120" y="512" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">幾何: 圓的性質</text>
+  <text x="850" y="512" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">11題 (6.79%)</text>
+  <rect x="120" y="518" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="518" width="209" height="8" rx="4" fill="#818cf8" />
+  <circle cx="90" cy="569" r="14" fill="#6366f1" />
+  <text x="90" y="573" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">4</text>
+  <text x="120" y="575" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">代數: 比例式與正反比</text>
+  <text x="850" y="575" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">9題 (5.56%)</text>
+  <rect x="120" y="581" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="581" width="171" height="8" rx="4" fill="#6366f1" />
+  <circle cx="90" cy="632" r="14" fill="#6366f1" />
+  <text x="90" y="636" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">5</text>
+  <text x="120" y="638" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">代數: 直角坐標與二元一次圖形</text>
+  <text x="850" y="638" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">9題 (5.56%)</text>
+  <rect x="120" y="644" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="644" width="171" height="8" rx="4" fill="#6366f1" />
+  <circle cx="90" cy="695" r="14" fill="#6366f1" />
+  <text x="90" y="699" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">6</text>
+  <text x="120" y="701" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">統計與機率: 統計圖表與數據</text>
+  <text x="850" y="701" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">9題 (5.56%)</text>
+  <rect x="120" y="707" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="707" width="171" height="8" rx="4" fill="#6366f1" />
+  <circle cx="90" cy="758" r="14" fill="#a78bfa" />
+  <text x="90" y="762" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">7</text>
+  <text x="120" y="764" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">代數: 乘法公式與多項式</text>
+  <text x="850" y="764" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">8題 (4.94%)</text>
+  <rect x="120" y="770" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="770" width="152" height="8" rx="4" fill="#a78bfa" />
+  <circle cx="90" cy="821" r="14" fill="#cbd5e1" />
+  <text x="90" y="825" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">8</text>
+  <text x="120" y="827" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">數與式: 數線與數的運算</text>
+  <text x="850" y="827" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">7題 (4.32%)</text>
+  <rect x="120" y="833" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="833" width="133" height="8" rx="4" fill="#cbd5e1" />
+  <circle cx="90" cy="884" r="14" fill="#cbd5e1" />
+  <text x="90" y="888" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">9</text>
+  <text x="120" y="890" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">數與式: 因數與倍數</text>
+  <text x="850" y="890" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">7題 (4.32%)</text>
+  <rect x="120" y="896" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="896" width="133" height="8" rx="4" fill="#cbd5e1" />
+  <circle cx="90" cy="947" r="14" fill="#cbd5e1" />
+  <text x="90" y="951" fill="#0f172a" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">10</text>
+  <text x="120" y="953" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">代數: 二次函數</text>
+  <text x="850" y="953" fill="#94a3b8" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="end">7題 (4.32%)</text>
+  <rect x="120" y="959" width="400" height="8" rx="4" fill="#0f172a" />
+  <rect x="120" y="959" width="133" height="8" rx="4" fill="#cbd5e1" />
+  <rect x="1010" y="290" width="860" height="740" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <text x="1040" y="332" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="bold" text-anchor="start">會考命題趨勢與領域分佈</text>
+  <rect x="1040" y="360" width="240" height="240" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1" />
+  <text x="1160" y="398" fill="#a78bfa" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">代數與函數</text>
+  <text x="1160" y="453" fill="#a78bfa" font-family="Microsoft JhengHei, sans-serif" font-size="38" font-weight="bold" text-anchor="middle">39.5%</text>
+  <text x="1055" y="494" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">聯立方程式、比例式、二次函數。</text>
+  <text x="1055" y="512.2" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">出題頻率最高，著重公式運算與數</text>
+  <text x="1055" y="530.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">學建模應用。</text>
+  <rect x="1320" y="360" width="240" height="240" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1" />
+  <text x="1440" y="398" fill="#f43f5e" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">幾何與圖形</text>
+  <text x="1440" y="453" fill="#f43f5e" font-family="Microsoft JhengHei, sans-serif" font-size="38" font-weight="bold" text-anchor="middle">31.5%</text>
+  <text x="1335" y="494" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">多邊形、圓、相似形、三心。決勝</text>
+  <text x="1335" y="512.2" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">A等級的關鍵，著重幾何推理證明</text>
+  <text x="1335" y="530.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">與輔助線。</text>
+  <rect x="1600" y="360" width="240" height="240" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1" />
+  <text x="1720" y="398" fill="#2dd4bf" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">數與式/統計機率</text>
+  <text x="1720" y="453" fill="#2dd4bf" font-family="Microsoft JhengHei, sans-serif" font-size="38" font-weight="bold" text-anchor="middle">29.0%</text>
+  <text x="1615" y="494" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">因倍數、根式、統計圖表與機率。</text>
+  <text x="1615" y="512.2" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">基本分基本盤，難度中易，應全拿</text>
+  <text x="1615" y="530.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">分。</text>
+  <rect x="1040" y="640" width="800" height="110" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1" />
+  <rect x="1040" y="640" width="8" height="110" fill="#38bdf8" />
+  <text x="1065" y="673" fill="#38bdf8" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">趨勢一 | 兩大核心台柱占26.0%</text>
+  <text x="1065" y="699" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">二元一次聯立方程式與多邊形性質是每年出題基本盤，合計出題 6~8 題。考生須精熟解法與基礎角度定理。</text>
+  <rect x="1040" y="770" width="800" height="110" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1" />
+  <rect x="1040" y="770" width="8" height="110" fill="#f43f5e" />
+  <text x="1065" y="803" fill="#f43f5e" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">趨勢二 | 幾何為奪A關鍵</text>
+  <text x="1065" y="829" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">圓性質、相似形、三心常出現在第16題後及非選，多具備高度鑑別度，需熟練幾何性質與輔助線構思。</text>
+  <rect x="1040" y="900" width="800" height="110" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1" />
+  <rect x="1040" y="900" width="8" height="110" fill="#fbbf24" />
+  <text x="1065" y="933" fill="#fbbf24" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="bold" text-anchor="start">趨勢三 | 生活素養與建模</text>
+  <text x="1065" y="959" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="14" font-weight="normal" text-anchor="start">長題敘述多，融入文旦分類、疫苗實驗、齒輪比。考生須養成「閱讀理解、假設變數、列出算式」的建模習慣。</text>
 </svg>
