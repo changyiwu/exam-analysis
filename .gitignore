@@ -44,6 +44,8 @@ Thumbs.db
 private_data/
 *real_data*
 *student_data*
+input/
+output/
 
 # Python scratch and virtual envs
 scratch/
