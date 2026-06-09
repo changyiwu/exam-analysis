@@ -26,23 +26,24 @@
   <rect x="80" y="330" width="870" height="125" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
   <rect x="80" y="330" width="8" height="125" fill="#c084fc" />
   <text x="105" y="369" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">1. 三角形與多邊形性質 (平行與摺疊)</text>
-  <text x="105" y="396" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">平行線與截角定理、特殊四邊形長度/角度。常與摺疊對稱結合考角度變化。</text>
+  <text x="105" y="400" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">平行線與截角定理、特殊四邊形長度/角度。常與摺疊對稱結合考角度變化。</text>
   <rect x="80" y="470" width="870" height="125" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
   <rect x="80" y="470" width="8" height="125" fill="#c084fc" />
   <text x="105" y="509" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">2. 圓的性質 (切線與圓角)</text>
-  <text x="105" y="536" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">九上核心。圓周角與切線推導、弦心距與弧長。是高鑑別度題目的常客。</text>
+  <text x="105" y="540" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">九上核心。圓周角與切線推導、弦心距與弧長。是高鑑別度題目的常客。</text>
   <rect x="80" y="610" width="870" height="125" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
   <rect x="80" y="610" width="8" height="125" fill="#c084fc" />
   <text x="105" y="649" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">3. 三角形全等與相似</text>
-  <text x="105" y="676" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">九上核心。相似判定性質與比例線段結合。此為非選幾何證明的核心考點。</text>
+  <text x="105" y="680" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">九上核心。相似判定性質與比例線段結合。此為非選幾何證明的核心考點。</text>
   <rect x="80" y="750" width="870" height="125" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
   <rect x="80" y="750" width="8" height="125" fill="#818cf8" />
   <text x="105" y="789" fill="#818cf8" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">4. 三角形三心 (外心、內心、重心)</text>
-  <text x="105" y="816" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">九上核心。掌握三心定義與性質（如重心2:1、內心到三邊等距、外心外接圓）。</text>
+  <text x="105" y="820" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">九上核心。掌握三心定義與性質（如重心2:1、內心到三邊等距、外心外接圓）</text>
+  <text x="105" y="849.7" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">。</text>
   <rect x="80" y="890" width="870" height="125" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
   <rect x="80" y="890" width="8" height="125" fill="#818cf8" />
   <text x="105" y="929" fill="#818cf8" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">5. 二次函數與圖形對稱極值</text>
-  <text x="105" y="956" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">九下單元。配方法求頂點、對稱性、平移與交點。常結合生活軌跡考極值。</text>
+  <text x="105" y="960" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">九下單元。配方法求頂點、對稱性、平移與交點。常結合生活軌跡考極值。</text>
   <rect x="1010" y="250" width="860" height="780" rx="12" fill="#221d5c" stroke="#a855f7" stroke-width="1" />
   <text x="1040" y="301" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold" text-anchor="start">📋 B 到 A 實戰高分拿分指南</text>
   <rect x="1040" y="330" width="790" height="150" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
@@ -50,27 +51,27 @@
   <rect x="1065" y="342" width="90" height="32" rx="4" fill="#c084fc" />
   <text x="1110" y="364" fill="#13102b" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南一</text>
   <text x="1170" y="368" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">非選題作答步驟化，力求緊扣「定理與邏輯」</text>
-  <text x="1065" y="403" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">幾何題作答不可僅列算式，必須寫出『因為...，所以...』並註明使用的幾何定理。代數應用題也</text>
-  <text x="1065" y="427.3" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">需寫下變數假設與最終合理性檢驗，以防遭酌扣1分。</text>
+  <text x="1065" y="405" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">幾何題作答不可僅列算式，必須寫出『因為...，所以...』並註明使用的幾何定理。代數</text>
+  <text x="1065" y="432.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">應用題也需寫下變數假設與最終合理性檢驗，以防遭酌扣1分。</text>
   <rect x="1040" y="500" width="790" height="150" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
   <rect x="1040" y="500" width="8" height="150" fill="#c084fc" />
   <rect x="1065" y="512" width="90" height="32" rx="4" fill="#c084fc" />
   <text x="1110" y="534" fill="#13102b" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南二</text>
   <text x="1170" y="538" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">建立「幾何輔助線」反射，破解幾何題卡關</text>
-  <text x="1065" y="573" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">後半段幾何多需輔助線。平時練習應建立反射動作：看到切線連接圓心與切點（垂直）；看到</text>
-  <text x="1065" y="597.3" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">中點構造中線或平行線。多尋找相似形或直角三角形。</text>
+  <text x="1065" y="575" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">後半段幾何多需輔助線。平時練習應建立反射動作：看到切線連接圓心與切點（垂直</text>
+  <text x="1065" y="602.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">）；看到中點構造中線或平行線。多尋找相似形或直角三角形。</text>
   <rect x="1040" y="670" width="790" height="150" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
   <rect x="1040" y="670" width="8" height="150" fill="#818cf8" />
   <rect x="1065" y="682" width="90" height="32" rx="4" fill="#818cf8" />
   <text x="1110" y="704" fill="#13102b" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南三</text>
   <text x="1170" y="708" fill="#818cf8" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">建立錯題本，深度挖掘「錯題的考點本質」</text>
-  <text x="1065" y="743" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">從 B 到 A 的關鍵在於不犯相同錯誤。將寫錯的題目整理至錯題本中，用紅筆標記出『這題考了</text>
-  <text x="1065" y="767.3" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">什麼隱藏觀念』、『當初我的盲點在哪』。考前反覆溫習。</text>
+  <text x="1065" y="745" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">從 B 到 A 的關鍵在於不犯相同錯誤。將寫錯的題目整理至錯題本中，用紅筆標記出『</text>
+  <text x="1065" y="772.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">這題考了什麼隱藏觀念』、『當初我的盲點在哪』。考前反覆溫習。</text>
   <rect x="1040" y="840" width="790" height="150" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
   <rect x="1040" y="840" width="8" height="150" fill="#818cf8" />
   <rect x="1065" y="852" width="90" height="32" rx="4" fill="#818cf8" />
   <text x="1110" y="874" fill="#13102b" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南四</text>
   <text x="1170" y="878" fill="#818cf8" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">一題多解與限速訓練，提升考場解題應變力</text>
-  <text x="1065" y="913" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">平時練習對同一個幾何題想出兩種不同解法（如坐標化 vs 相似比），建立多元思路。並在模考</text>
-  <text x="1065" y="937.3" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">時強迫自己縮短前15題時間，保留精力給難題。</text>
+  <text x="1065" y="915" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">平時練習對同一個幾何題想出兩種不同解法（如坐標化 vs 相似比），建立多元思路。</text>
+  <text x="1065" y="942.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">並在模考時強迫自己縮短前15題時間，保留精力給難題。</text>
 </svg>

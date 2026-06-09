@@ -26,33 +26,35 @@
   <rect x="80" y="330" width="420" height="210" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
   <rect x="80" y="330" width="8" height="210" fill="#f87171" />
   <text x="105" y="369" fill="#f87171" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">1. 數線與數的運算</text>
-  <text x="105" y="396" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">七上單元。考正負數運算、絕對值大小、分配律簡化</text>
-  <text x="105" y="417.6" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">計算。是全卷最容易的第一題出處。</text>
+  <text x="105" y="400" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">七上單元。考正負數運算、絕對值大小、</text>
+  <text x="105" y="427.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">分配律簡化計算。是全卷最容易的第一題</text>
+  <text x="105" y="454.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">出處。</text>
   <rect x="530" y="330" width="420" height="210" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
   <rect x="530" y="330" width="8" height="210" fill="#f87171" />
   <text x="555" y="369" fill="#f87171" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">2. 科學記號與指數</text>
-  <text x="555" y="396" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">七上單元。考十的次方比較、大數估算。概念非常單</text>
-  <text x="555" y="417.6" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">純，多加練習即可拿分。</text>
+  <text x="555" y="400" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">七上單元。考十的次方比較、大數估算。</text>
+  <text x="555" y="427.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">概念非常單純，多加練習即可拿分。</text>
   <rect x="80" y="560" width="420" height="210" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
   <rect x="80" y="560" width="8" height="210" fill="#f87171" />
   <text x="105" y="599" fill="#f87171" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">3. 因數與倍數</text>
-  <text x="105" y="626" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">七上單元。考質數判斷、公因數公倍數。多結合生活</text>
-  <text x="105" y="647.6" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">情境（如拼貼紙片不裁切）。</text>
+  <text x="105" y="630" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">七上單元。考質數判斷、公因數公倍數。</text>
+  <text x="105" y="657.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">多結合生活情境（如拼貼紙片不裁切）。</text>
   <rect x="530" y="560" width="420" height="210" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
   <rect x="530" y="560" width="8" height="210" fill="#fb923c" />
   <text x="555" y="599" fill="#fb923c" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">4. 直角坐標與圖形</text>
-  <text x="555" y="626" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">七下單元。考象限判斷、讀取坐標點。通常配合坐標</text>
-  <text x="555" y="647.6" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">點移動，是看圖說故事送分題。</text>
+  <text x="555" y="630" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">七下單元。考象限判斷、讀取坐標點。通</text>
+  <text x="555" y="657.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">常配合坐標點移動，是看圖說故事送分題</text>
+  <text x="555" y="684.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">。</text>
   <rect x="80" y="790" width="420" height="210" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
   <rect x="80" y="790" width="8" height="210" fill="#fb923c" />
   <text x="105" y="829" fill="#fb923c" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">5. 二元一次聯立方程</text>
-  <text x="105" y="856" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">七下單元。考解聯立方程式，或生活代數列式。熟記</text>
-  <text x="105" y="877.6" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">消去法即可穩拿分。</text>
+  <text x="105" y="860" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">七下單元。考解聯立方程式，或生活代數</text>
+  <text x="105" y="887.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">列式。熟記消去法即可穩拿分。</text>
   <rect x="530" y="790" width="420" height="210" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
   <rect x="530" y="790" width="8" height="210" fill="#fb923c" />
   <text x="555" y="829" fill="#fb923c" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">6. 統計圖表與數據</text>
-  <text x="555" y="856" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">九下單元。考直方圖、折線圖判讀，或是中位數與眾</text>
-  <text x="555" y="877.6" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">數。純閱讀圖表即可得分。</text>
+  <text x="555" y="860" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">九下單元。考直方圖、折線圖判讀，或是</text>
+  <text x="555" y="887.0" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="normal" text-anchor="start">中位數與眾數。純閱讀圖表即可得分。</text>
   <rect x="1010" y="250" width="860" height="780" rx="12" fill="#4a1c12" stroke="#f87171" stroke-width="1" />
   <text x="1040" y="301" fill="#fb923c" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold" text-anchor="start">📋 C 到 B 衝刺實戰拿分指南</text>
   <rect x="1040" y="330" width="790" height="200" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
@@ -60,21 +62,23 @@
   <rect x="1065" y="348" width="90" height="32" rx="4" fill="#fb923c" />
   <text x="1110" y="370" fill="#27120c" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南一</text>
   <text x="1170" y="374" fill="#fb923c" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">果斷放棄難題！時間留給前 15 題</text>
-  <text x="1065" y="413" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">會考後半段（16-25題）多是複雜的幾何相似、證明或圓形題目，對C級同學太耗時。請在考</text>
-  <text x="1065" y="437.3" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">場上果斷跳過，將省下的時間全部用來反覆檢查前 15 題，確保寫過的題目絕對能拿分。</text>
+  <text x="1065" y="417" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">會考後半段（16-25題）多是複雜的幾何相似、證明或圓形題目，對C級同學</text>
+  <text x="1065" y="446.7" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">太耗時。請在考場上果斷跳過，將省下的時間全部用來反覆檢查前 15 題，</text>
+  <text x="1065" y="476.4" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">確保寫過的題目絕對能拿分。</text>
   <rect x="1040" y="560" width="790" height="200" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
   <rect x="1040" y="560" width="8" height="200" fill="#fb923c" />
   <rect x="1065" y="578" width="90" height="32" rx="4" fill="#fb923c" />
   <text x="1110" y="600" fill="#27120c" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南二</text>
   <text x="1170" y="604" fill="#fb923c" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">杜絕粗心錯誤！寫完立刻用「簡單代值」驗算</text>
-  <text x="1065" y="643" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">待加強的同學往往不是不會，而是死在計算錯誤（如負負得正、分配律漏乘）。寫完一題方程</text>
-  <text x="1065" y="667.3" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">式或算式題，立刻將答案代回原式子中，確認左右兩邊相等，確防粗心。</text>
+  <text x="1065" y="647" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">待加強的同學往往不是不會，而是死在計算錯誤（如負負得正、分配律漏乘</text>
+  <text x="1065" y="676.7" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">）。寫完一題方程式或算式題，立刻將答案代回原式子中，確認左右兩邊相</text>
+  <text x="1065" y="706.4000000000001" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">等，確防粗心。</text>
   <rect x="1040" y="790" width="790" height="200" rx="8" fill="#27120c" stroke="#f87171" stroke-width="1" />
   <rect x="1040" y="790" width="8" height="200" fill="#f87171" />
   <rect x="1065" y="808" width="90" height="32" rx="4" fill="#f87171" />
   <text x="1110" y="830" fill="#27120c" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南三</text>
   <text x="1170" y="834" fill="#f87171" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">非選題大膽作答！哪怕只寫出『假設未知數』</text>
-  <text x="1065" y="873" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">非選第一題多是代數應用題。即使不會解題，也必須用中文寫下：『設未知數 x 為...，設 y 為.</text>
-  <text x="1065" y="897.3" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">..』並試著照題目寫出式子。會考非選只要有合理的假設與列式就能拿1分，這往往是脫C關鍵</text>
-  <text x="1065" y="921.5999999999999" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="18" font-weight="normal" text-anchor="start">！</text>
+  <text x="1065" y="877" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">非選第一題多是代數應用題。即使不會解題，也必須用中文寫下：『設未知</text>
+  <text x="1065" y="906.7" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">數 x 為...，設 y 為...』並試著照題目寫出式子。會考非選只要有合理的假設與</text>
+  <text x="1065" y="936.4000000000001" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="normal" text-anchor="start">列式就能拿1分，這往往是脫C關鍵！</text>
 </svg>
