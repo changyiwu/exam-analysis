@@ -22,9 +22,14 @@
     2. `2_overall_strategy`：會考準備與時間分配策略
     3. `3_strategy_c_to_b`：C到B突破基本分策略
     4. `4_strategy_b_to_a`：B到A攻克進階幾何與非選策略
+  - **SVG 響應式優化**：調整 SVG 根屬性為 `width="100%" height="100%" preserveAspectRatio="xMidYMid meet"`，使向量圖檔可隨瀏覽器大小自適應縮放。
+  - **Git 追蹤優化**：修改 `.gitignore` 排除 `input/` 與 `output/` 目錄，並使用 `git rm -r --cached` 清除遠端與快取追蹤，避免大型 PDF 及圖檔推上 GitHub。
+  - **封裝專案技能**：將試題統計分析與響應式圖表繪製的完整工作流打包為專案專屬技能檔案 `.agents/skills/antigravity-exam-analysis.md`。
 - **下一步規劃**：
   - 規劃開發互動式 Web 介面以動態呈現分析結果與模擬練習題。
 - **踩坑/特別注意**：
   - ⚠️ 本專案涉及學生成績與試題，在後續測試與實作中，**絕不可使用包含真實姓名或真實學號的資料集**，所有模擬測試資料需完全去識別化。
   - ⚠️ 產出圖表中的中文字型在 Windows 下須指定 `msjh.ttc`（微軟正黑體），SVG 則使用 CSS font-family 屬性以確保跨平台瀏覽器相容性。
+  - ⚠️ 專案技能置於 `.agents/skills/` 中，可透過 Git 共享給同專案的協作者。
+
 
