@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800">
+  <rect width="1200" height="1800" fill="#042f2e" />
+  <line x1="100" y1="0" x2="100" y2="1800" stroke="#115e59" stroke-width="1" />
+  <line x1="300" y1="0" x2="300" y2="1800" stroke="#115e59" stroke-width="1" />
+  <line x1="500" y1="0" x2="500" y2="1800" stroke="#115e59" stroke-width="1" />
+  <line x1="700" y1="0" x2="700" y2="1800" stroke="#115e59" stroke-width="1" />
+  <line x1="900" y1="0" x2="900" y2="1800" stroke="#115e59" stroke-width="1" />
+  <line x1="1100" y1="0" x2="1100" y2="1800" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="100" x2="1200" y2="100" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="300" x2="1200" y2="300" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="500" x2="1200" y2="500" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="700" x2="1200" y2="700" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="900" x2="1200" y2="900" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="1100" x2="1200" y2="1100" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="1300" x2="1200" y2="1300" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="1500" x2="1200" y2="1500" stroke="#115e59" stroke-width="1" />
+  <line x1="0" y1="1700" x2="1200" y2="1700" stroke="#115e59" stroke-width="1" />
+  <rect x="50" y="50" width="1100" height="180" rx="12" fill="#115e59" stroke="#14b8a6" stroke-width="2" />
+  <rect x="50" y="50" width="15" height="180" fill="#fbbf24" />
+  <text x="90" y="104" fill="#99f6e4" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">國中教育會考數學科</text>
+  <text x="90" y="162" fill="#f0fdfa" font-family="Microsoft JhengHei, sans-serif" font-size="42" font-weight="bold" text-anchor="start">會考應考策略與準備方針</text>
+  <rect x="50" y="260" width="1100" height="720" rx="12" fill="#115e59" stroke="#14b8a6" stroke-width="1" />
+  <text x="80" y="316" fill="#fbbf24" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold" text-anchor="start">⏳ 考場 80 分鐘答題時間黃金分配</text>
+  <circle cx="100" cy="400" r="30" fill="#2dd4bf" />
+  <text x="100" y="411" fill="#042f2e" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">1</text>
+  <rect x="160" y="350" width="960" height="130" rx="8" fill="#042f2e" stroke="#14b8a6" stroke-width="1" />
+  <text x="180" y="385" fill="#f0fdfa" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">第一階段：基礎搶分 (第 1 ~ 15 題)</text>
+  <text x="180" y="411" fill="#2dd4bf" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">用時：約 25 分鐘 (每題 1.5 分鐘)</text>
+  <text x="180" y="441" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">【目標】：快速、穩健地寫完前段基礎題。這部分考點單一，務必放慢速度仔細讀題，計算完畢後立刻順手進行簡單代值驗算，固</text>
+  <text x="180" y="461.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">守基本分入袋。</text>
+  <circle cx="100" cy="550" r="30" fill="#2dd4bf" />
+  <text x="100" y="561" fill="#042f2e" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">2</text>
+  <rect x="160" y="500" width="960" height="130" rx="8" fill="#042f2e" stroke="#14b8a6" stroke-width="1" />
+  <text x="180" y="535" fill="#f0fdfa" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">第二階段：非選攻防 (非選擇題 2 題)</text>
+  <text x="180" y="561" fill="#2dd4bf" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">用時：約 20 分鐘 (每題 10 分鐘)</text>
+  <text x="180" y="591" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">【目標】：搶攻非選擇題步驟分！會考非選題採『步驟給分』，哪怕最終答案沒算出來，只要能設未知數並寫出合理列式，也能拿 </text>
+  <text x="180" y="611.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">1~2 分。絕不可留白！</text>
+  <circle cx="100" cy="700" r="30" fill="#2dd4bf" />
+  <text x="100" y="711" fill="#042f2e" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">3</text>
+  <rect x="160" y="650" width="960" height="130" rx="8" fill="#042f2e" stroke="#14b8a6" stroke-width="1" />
+  <text x="180" y="685" fill="#f0fdfa" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">第三階段：進階鑑別 (第 16 ~ 25 題)</text>
+  <text x="180" y="711" fill="#2dd4bf" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">用時：約 25 分鐘 (每題 2.5 分鐘)</text>
+  <text x="180" y="741" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">【目標】：挑戰後段幾何、二次函數等高難度題。遇到毫無頭緒的卡關題目（超過 3 分鐘解不出），先圈起來跳過，切忌在一題上</text>
+  <text x="180" y="761.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">死磕。</text>
+  <circle cx="100" cy="850" r="30" fill="#fbbf24" />
+  <text x="100" y="861" fill="#042f2e" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">4</text>
+  <rect x="160" y="800" width="960" height="130" rx="8" fill="#042f2e" stroke="#14b8a6" stroke-width="1" />
+  <text x="180" y="835" fill="#f0fdfa" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">第四階段：檢查與除錯 (最後檢查)</text>
+  <text x="180" y="861" fill="#fbbf24" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="start">用時：約 10 分鐘 (全力抓錯)</text>
+  <text x="180" y="891" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">【目標】：優先回頭驗算前 15 題！並確認選擇題劃卡無偏移、非選題列式中是否有漏寫單位或說明。此階段往往能挽回 3-5 分的</text>
+  <text x="180" y="911.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">粗心失分。</text>
+  <rect x="50" y="1010" width="1100" height="740" rx="12" fill="#115e59" stroke="#14b8a6" stroke-width="1" />
+  <text x="80" y="1066" fill="#fbbf24" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold" text-anchor="start">💡 衝刺期準備三大心法</text>
+  <rect x="80" y="1100" width="1040" height="180" rx="8" fill="#042f2e" stroke="#14b8a6" stroke-width="1" />
+  <rect x="100" y="1125" width="100" height="36" rx="5" fill="#fbbf24" />
+  <text x="150" y="1148" fill="#042f2e" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">心法一</text>
+  <text x="220" y="1148" fill="#fbbf24" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">素養長題「先看問題，再圈條件」</text>
+  <text x="100" y="1196" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">會考數學素養題文字敘述冗長，並包含大量表格或情境說明。考生應養成『先讀題目最後一句求什麼』的習慣，帶著解題目標再回頭圈選關鍵</text>
+  <text x="100" y="1216.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">數據與變數關係，如此能節省至少一半的閱讀時間，避免被過多背景雜訊干擾解題思路。</text>
+  <rect x="80" y="1300" width="1040" height="180" rx="8" fill="#042f2e" stroke="#14b8a6" stroke-width="1" />
+  <rect x="100" y="1325" width="100" height="36" rx="5" fill="#fbbf24" />
+  <text x="150" y="1348" fill="#042f2e" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">心法二</text>
+  <text x="220" y="1348" fill="#fbbf24" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">「列式即給分」！非選擇題千萬別交白卷</text>
+  <text x="100" y="1396" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">會考非選題共兩題占 6 分，評分標準著重解題過程與數學邏輯。考生在作答時應養成『寫下思路』的習慣：(1) 清楚寫下『設未知數為...』，(2)</text>
+  <text x="100" y="1416.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start"> 根據中文語境列出方程式。即便最後計算出錯或未完成，光是正確的假設與列式就足以獲得 1~2 級分！</text>
+  <rect x="80" y="1500" width="1040" height="180" rx="8" fill="#042f2e" stroke="#14b8a6" stroke-width="1" />
+  <rect x="100" y="1525" width="100" height="36" rx="5" fill="#fbbf24" />
+  <text x="150" y="1548" fill="#042f2e" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">心法三</text>
+  <text x="220" y="1548" fill="#fbbf24" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">計時 80 分鐘模擬，進行「限速訓練」</text>
+  <text x="100" y="1596" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">許多考生在模擬考時寫不完，是因為缺乏時間分配的自律。在考前衝刺階段，練習歷屆試題與模考題時，必須強迫自己設定 80 分鐘鬧鐘，完</text>
+  <text x="100" y="1616.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">全比照真實會考時間與答題順序（如寫完前 15 題立即寫非選），培養身體的答題節奏與考場抗壓性。</text>
+</svg>

@@ -44,3 +44,11 @@ Thumbs.db
 private_data/
 *real_data*
 *student_data*
+
+# Python scratch and virtual envs
+scratch/
+__pycache__/
+*.pyc
+venv/
+.venv/
+

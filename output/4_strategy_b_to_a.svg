@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800">
+  <rect width="1200" height="1800" fill="#13102b" />
+  <line x1="100" y1="0" x2="100" y2="1800" stroke="#221d5c" stroke-width="1" />
+  <line x1="300" y1="0" x2="300" y2="1800" stroke="#221d5c" stroke-width="1" />
+  <line x1="500" y1="0" x2="500" y2="1800" stroke="#221d5c" stroke-width="1" />
+  <line x1="700" y1="0" x2="700" y2="1800" stroke="#221d5c" stroke-width="1" />
+  <line x1="900" y1="0" x2="900" y2="1800" stroke="#221d5c" stroke-width="1" />
+  <line x1="1100" y1="0" x2="1100" y2="1800" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="100" x2="1200" y2="100" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="300" x2="1200" y2="300" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="500" x2="1200" y2="500" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="700" x2="1200" y2="700" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="900" x2="1200" y2="900" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="1100" x2="1200" y2="1100" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="1300" x2="1200" y2="1300" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="1500" x2="1200" y2="1500" stroke="#221d5c" stroke-width="1" />
+  <line x1="0" y1="1700" x2="1200" y2="1700" stroke="#221d5c" stroke-width="1" />
+  <rect x="50" y="50" width="1100" height="180" rx="12" fill="#221d5c" stroke="#a855f7" stroke-width="2" />
+  <rect x="50" y="50" width="15" height="180" fill="#c084fc" />
+  <text x="90" y="104" fill="#f5f3ff" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">會考數學等級晉升</text>
+  <text x="90" y="162" fill="#faf5ff" font-family="Microsoft JhengHei, sans-serif" font-size="42" font-weight="bold" text-anchor="start">從 B 到 A 精熟策略：攻克進階與非選</text>
+  <rect x="50" y="260" width="1100" height="90" rx="8" fill="#6b21a8" />
+  <text x="600" y="316" fill="#ffffff" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">🎯 精準目標：選擇題錯 2 ~ 4 題內，非選拿 4 ~ 6 分，勇奪 A 等級！</text>
+  <rect x="50" y="380" width="1100" height="650" rx="12" fill="#221d5c" stroke="#a855f7" stroke-width="1" />
+  <text x="80" y="434" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">🎯 核心突破：攻克這 5 大「決勝鑑別度」高難度單元</text>
+  <rect x="80" y="470" width="1040" height="100" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="80" y="470" width="8" height="100" fill="#c084fc" />
+  <text x="105" y="505" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">1. 三角形與多邊形性質</text>
+  <text x="105" y="531" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">著重平行線與截角定理、特殊四邊形長度/角度計算。常與摺疊對稱性質結合考角度變化。</text>
+  <rect x="80" y="582" width="1040" height="100" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="80" y="582" width="8" height="100" fill="#c084fc" />
+  <text x="105" y="617" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">2. 圓的性質</text>
+  <text x="105" y="643" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">九上核心。圓周角與切線性質的幾何推導、弦心距與弧長比例。是高鑑別度題目的熱門出處。</text>
+  <rect x="80" y="694" width="1040" height="100" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="80" y="694" width="8" height="100" fill="#c084fc" />
+  <text x="105" y="729" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">3. 三角形全等與相似</text>
+  <text x="105" y="755" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">九上核心。相似三角形判定性質 (AA、SAS) 與比例線段的結合。此為非選擇幾何證明的絕對必考點。</text>
+  <rect x="80" y="806" width="1040" height="100" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="80" y="806" width="8" height="100" fill="#818cf8" />
+  <text x="105" y="841" fill="#818cf8" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">4. 三角形三心 (外內重心)</text>
+  <text x="105" y="867" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">九上核心。掌握外心 (到三頂點等距)、內心 (角平分線、到三邊等距) 與重心 (2:1 長度比) 的綜合應用。</text>
+  <rect x="80" y="918" width="1040" height="100" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="80" y="918" width="8" height="100" fill="#818cf8" />
+  <text x="105" y="953" fill="#818cf8" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">5. 二次函數與極值</text>
+  <text x="105" y="979" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">九下單元。配方法求頂點、對稱性應用、拋物線平移與交點。近年常結合生活軌跡考極值問題。</text>
+  <rect x="50" y="1060" width="1100" height="690" rx="12" fill="#221d5c" stroke="#a855f7" stroke-width="1" />
+  <text x="80" y="1114" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="bold" text-anchor="start">📋 B 到 A 實戰高分拿分指南</text>
+  <rect x="80" y="1140" width="1040" height="130" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="100" y="1160" width="100" height="32" rx="5" fill="#c084fc" />
+  <text x="150" y="1182" fill="#13102b" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南一</text>
+  <text x="220" y="1183" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">非選題作答步驟化，力求扣緊「邏輯與定理」</text>
+  <text x="100" y="1221" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">非選幾何題評分最看重嚴謹性。作答時不可只寫公式與數字，必須寫出『因為...，所以...』並清楚交代使用的定理（如『根據相似三角形性質...</text>
+  <text x="100" y="1241.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">』），代數題也需寫下變數假設與答案合理性檢驗，確保不被酌扣 1 分。</text>
+  <rect x="80" y="1282" width="1040" height="130" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="100" y="1302" width="100" height="32" rx="5" fill="#c084fc" />
+  <text x="150" y="1324" fill="#13102b" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南二</text>
+  <text x="220" y="1325" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">建立「幾何輔助線」反射思維，攻克幾何卡關</text>
+  <text x="100" y="1363" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">會考後半段幾何題目多需繪製輔助線。平時練習時應總結反射動作：看到切線就連接圓心與切點（垂直）、看到中點或平行就畫平行截線或中</text>
+  <text x="100" y="1383.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">位線。多思考『如果再畫一條線，可以構造出什麼相似三角形或直角三角形？』</text>
+  <rect x="80" y="1424" width="1040" height="130" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="100" y="1444" width="100" height="32" rx="5" fill="#c084fc" />
+  <text x="150" y="1466" fill="#13102b" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南三</text>
+  <text x="220" y="1467" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">建立錯題本，深度挖掘「錯題的考點本質」</text>
+  <text x="100" y="1505" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">從 B 到 A 的進步，在於徹底杜絕相同的錯誤。考生應將寫錯的歷屆與模擬考題整理至錯題本中，用紅筆標記出『這題考了什麼隱藏觀念』、『</text>
+  <text x="100" y="1525.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">當初我的第一直覺盲點在哪』。考前反覆溫習錯題本，確保所有盲區完全排除。</text>
+  <rect x="80" y="1566" width="1040" height="130" rx="8" fill="#13102b" stroke="#a855f7" stroke-width="1" />
+  <rect x="100" y="1586" width="100" height="32" rx="5" fill="#c084fc" />
+  <text x="150" y="1608" fill="#13102b" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">指南四</text>
+  <text x="220" y="1609" fill="#c084fc" font-family="Microsoft JhengHei, sans-serif" font-size="20" font-weight="bold" text-anchor="start">一題多解與限時優化，提升考場答題效率</text>
+  <text x="100" y="1647" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">考前練習時，試著對同一個幾何題想出兩種不同的解法（如利用坐標化解幾何題，或用相似比代替複雜畢氏定理）。這能在大腦中建立多元路</text>
+  <text x="100" y="1667.8" fill="#cbd5e1" font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="normal" text-anchor="start">徑，提升考場應變力。同時在模擬考時，強迫自己縮短前 15 題的寫作時間，保留精力給難題。</text>
+</svg>
