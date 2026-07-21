@@ -28,16 +28,11 @@
 ## 每日工作流程
 
 ### 開工步驟 (說「開工」時執行)
-1. 讀取此 `ANTIGRAVITY.md` 檔案確認專案規範。
-2. 讀取 `PROJECT_NOTES.md` 盤點上次進度與本次待辦。
-3. 執行 `git status` 與檢視最近一筆 commit 掌握目前分支狀態。
-4. 向使用者回報當前狀態，並建議下一步的具體工作。
-5. **未經使用者確認，不擅自進行 pull/commit/push**。
+1. 讀取 `agents.md`（專案藍圖）與 `handoff.md`（交接檔）盤點上次進度與本次待辦。
+2. 檢查 `git status` 與 commit 歷史。
+3. 向使用者回報當前狀態與建議下一步。
 
 ### 收工步驟 (說「收工」時執行)
-1. **隱私與敏感資訊檢查**：確認專案中無 API key、Token 與學生真實個資。
-2. **更新專案筆記**：在 `PROJECT_NOTES.md` 中詳細記錄已完成事項、踩坑紀錄與下一步規劃。
-3. **ANTIGRAVITY.md 維護**：非規則改變時，不隨意修改此規範檔。
-4. **檢查 git 異動**：執行 `git status` 及 `git diff` 以確認程式碼變更。
-5. **精準暫存**：只 stage 本次任務相關的檔案，嚴禁無差別使用 `git add .`。
-6. **提交流程**：取得使用者確認後，進行 commit 與 push，並回報同步結果。
+1. **隱私與敏感資訊檢查**：確認無 API Key、Token 與學生真實個資。
+2. **更新 L1/L3 筆記**：更新 `agents.md` 藍圖進度、改寫 `handoff.md` 交接檔，並將詳細紀錄寫入 Obsidian (`exam-analysis/專案工作流程.md`)。
+3. **Git 同步**：提交 commit 並 push 至遠端 Repository changyiwu/exam-analysis。
