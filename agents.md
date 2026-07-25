@@ -19,8 +19,9 @@
 - `input/`：輸入原始數據與試題資料
 - `output/`：分析成果與視覺化圖表產出（含 analysis_report.md、PNG / SVG 圖表）
 - `scratch/`：分析與繪圖腳本（classify_and_analyze.py, generate_infographics.py）
-- `ANTIGRAVITY.md`：專案規範說明
 - `README.md`：專案說明文件
+- `agents.md`：專案藍圖（本檔）
+- `handoff.md`：交接檔（每次收工必更新）
 
 ## 同步層級（本專案初始化至第 3 層級）
 
@@ -32,6 +33,19 @@
 
 ## 工作約定
 - 任何 Agent、任何電腦：**開工先讀 `handoff.md`，收工必更新 `handoff.md`**
-- 嚴禁寫入學生的真實姓名、真實個資或學號
-- 嚴禁將 API Key 或敏感憑證 commit 至 GitHub
+- 修改共用檔案前先讀最新內容，避免覆蓋其他 Agent 的變更
 - 所有回應與文件使用繁體中文
+
+## 安全規範
+
+- **隱私至上**：本專案涉及試題與成績，**嚴禁將學生的真實姓名、真實個資、學號**或任何敏感個資寫入程式碼或 Markdown 檔案。需要測試資料時一律使用去識別化的虛擬資料
+- **金鑰防護**：嚴禁將任何 API Key、Token、密碼等敏感憑證 commit 至 GitHub
+- 本專案為公開 repo `changyiwu/exam-analysis`，上述規範沒有例外
+
+## 視覺與設計美學
+
+- **拒絕陽春**：網頁介面必須具備現代設計感，視覺美學至上
+- **色彩系統**：使用和諧且具層次感的色彩調配（如 HSL），避免純紅、純綠、純藍等預設顏色；預設支援暗色模式與玻璃擬態（Glassmorphism）
+- **字型與排版**：引進現代字型（如 Inter、Outfit 等 Google Fonts），拒絕瀏覽器預設字型
+- **動態效果**：加入平滑的 Hover 效果與微動畫（Micro-animations）增強互動感
+- **無佔位符**：不使用 placeholder 圖片或虛假字樣；有需要時應以圖片生成工具產生對應素材
