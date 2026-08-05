@@ -1,5 +1,5 @@
 ---
-name: antigravity-exam-analysis
+name: exam-analysis
 description: 國中會考與考試試題統計分析、滿版響應式資訊圖表繪製及 Git 檔案忽略指南。說「分析會考試題」「生圖表」「產出應考策略」時載入。
 ---
 

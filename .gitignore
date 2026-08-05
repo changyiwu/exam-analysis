@@ -44,10 +44,13 @@ Thumbs.db
 private_data/
 *real_data*
 *student_data*
+
+# 原始試題 PDF（12MB）與所有分析產出，一律只走雲端硬碟，不進公開 repo
 input/
 output/
 
-# Python scratch and virtual envs
+# Python 暫存與虛擬環境
+# 註：可重現分析的腳本放 scripts/（有版控），scratch/ 只放丟掉也無所謂的暫存物
 scratch/
 __pycache__/
 *.pyc

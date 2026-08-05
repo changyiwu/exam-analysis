@@ -9,19 +9,26 @@
 - 試題分析與資訊圖表產出：2026-06-24（已完成）
 
 ## 目標與路線圖
-- [x] 110~115 年會考數學試題 162 題分類與統計分析
+- [x] 110~115 年會考數學試題逐題分類與統計分析（163 題）
 - [x] 繪製淺色美學 16:9 資訊圖表 (1.試題分析, 2.整體策略, 3.C到B策略, 4.B到A策略)
 - [x] 產出完整文字報告 analysis_report.md
-- [ ] 依據新需求進行下一階段分析擴充
+- [x] 補回試題分類腳本 `scripts/classify_and_analyze.py`（重新逐題校對 163 題，可完整重跑）
+- [x] 依重新校對的 163 題統計改寫 `analysis_report.md` 並重繪四張資訊圖表
+- [ ] 擴充至 116 年試題
+- [ ] 加入難度指數（P）與鑑別度指數（D）分析
 
 ## 資料夾結構
-- `.agents/`：Agent 相關配置
-- `input/`：輸入原始數據與試題資料
-- `output/`：分析成果與視覺化圖表產出（含 analysis_report.md、PNG / SVG 圖表）
-- `scratch/`：分析與繪圖腳本（classify_and_analyze.py, generate_infographics.py）
-- `README.md`：專案說明文件
-- `agents.md`：專案藍圖（本檔）
-- `handoff.md`：交接檔（每次收工必更新）
+
+| 路徑 | 用途 | 進 repo |
+| --- | --- | :---: |
+| `.agents/` | Agent 相關配置（含專案技能 `skills/exam-analysis.md`） | ✓ |
+| `input/` | 原始試題與答案 PDF | ✗ |
+| `output/` | 分析成果：analysis_report.md、PNG / SVG 圖表 | ✗ |
+| `scripts/` | **可重現**的分析與繪圖腳本（`classify_and_analyze.py`、`generate_infographics.py`） | ✓ |
+| `scratch/` | 一次性暫存物，丟掉也無所謂 | ✗ |
+| `README.md` | 專案說明文件 | ✓ |
+| `agents.md` | 專案藍圖（本檔） | ✓ |
+| `handoff.md` | 交接檔（每次收工必更新；含本機路徑不進 repo） | ✗ |
 
 ## 同步層級（本專案初始化至第 3 層級）
 
@@ -46,6 +53,9 @@
 ## 工作約定
 - 任何 Agent、任何電腦：**開工先讀 `handoff.md`，收工必更新 `handoff.md`**
 - 修改共用檔案前先讀最新內容，避免覆蓋其他 Agent 的變更
+- 能重現成果的腳本一律放 `scripts/` 並進版控；`scratch/` 已 gitignore，只放丟掉也無所謂的暫存物
+- 腳本內禁止寫死使用者家目錄或 Agent 暫存路徑，一律用 `Path(__file__)` 推導專案根目錄
+- 圖表與報告的數字一律以 `scripts/classify_and_analyze.py` 的輸出為準；要改分類就改 `OVERRIDES` 後重跑兩支腳本，不要手動改報告或圖表裡的數字
 - 所有回應與文件使用繁體中文
 
 ## 安全規範
@@ -61,3 +71,4 @@
 - **字型與排版**：引進現代字型（如 Inter、Outfit 等 Google Fonts），拒絕瀏覽器預設字型
 - **動態效果**：加入平滑的 Hover 效果與微動畫（Micro-animations）增強互動感
 - **無佔位符**：不使用 placeholder 圖片或虛假字樣；有需要時應以圖片生成工具產生對應素材
+- **PNG 的 emoji**：只用在 24px 以上的面板標題，20px 左右的小標籤不放 emoji（會糊成一團）；文字繪製統一以中文字型基線對齊，避免 emoji 浮高
