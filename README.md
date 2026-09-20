@@ -61,12 +61,12 @@ uv run scripts/generate_infographics.py
 | `output/` | 報告與資訊圖表 | ✗ |
 | `scripts/` | 可重現分析與繪圖的腳本 | ✓ |
 | `scratch/` | 一次性暫存物，丟掉也無所謂 | ✗ |
-| `agents.md` | 跨 Agent 專案藍圖 | ✓ |
+| `AGENTS.md` | 跨 Agent 專案藍圖 | ✓ |
 | `handoff.md` | 交接檔（含本機路徑，不進 repo） | ✗ |
 
 ## 專案規範與安全
 
-本專案為公開 repo，嚴格遵守 [agents.md](agents.md)：
+本專案為公開 repo，嚴格遵守 [AGENTS.md](AGENTS.md)：
 
 - 嚴禁將學生真實姓名、真實個資、學號寫入任何檔案；測試一律用去識別化虛擬資料
 - 嚴禁 commit 任何 API Key、Token、密碼
